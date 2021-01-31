@@ -1,0 +1,8 @@
+{
+	"name": "Explosm Daily Comic",
+	"author": "Dohseven",
+	"description": "Embed the images from Explosm daily feed inside article content.",
+	"version": "0.1.0",
+	"entrypoint": "Explosm",
+	"type": "system"
+}
